@@ -4,7 +4,7 @@
 
 ---
 
-**Naive Approach**
+### **Naive Approach**
 1. perform nums.size() number of rotations and each time check if it is sorted, if yes return true, else return false.
 (surprisingly the code was accepted)
 

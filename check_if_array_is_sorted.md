@@ -1,4 +1,4 @@
-## Check If Array is Sorted and Rotated - [link](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)
+## [Check If Array is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)
 
 **Level** : Easy
 

@@ -19,9 +19,14 @@ this approach is not at all intuitive and not something that you would think of 
 1. so reverse the entire list, then until k and after k reverse them separately.
 
 For example, 
+
 1 2 3 4 5 6 7 , k = 3
+
 7 6 5 4 3 2 1
+
 5 6 7 | 1 2 3 4
+
+Time Complexity : O(n) (reverse function)
 
 Also pay attention to the case where the number of rotations is greater than the length of the list (modulo it)
 

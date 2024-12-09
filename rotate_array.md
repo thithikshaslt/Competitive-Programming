@@ -12,6 +12,8 @@ Time Complexity : O(n) (one while loop)
 
 [submission](https://leetcode.com/problems/rotate-array/submissions/1474384741/)
 
+---
+
 ### **Optimal Approach**
 
 this approach is not at all intuitive and not something that you would think of in the first instant, but anyways here's how it goes:
